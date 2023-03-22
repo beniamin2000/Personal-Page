@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 300%;
+  font-family: inherit;
+}
+body {
+  background-color: LightGray;
+}
+.text {
+  text-indent: 40px;
+  text-align: justify;
+  font-size: 30px;
+  font-style: italic;
+}
+.biggertext {
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+}
